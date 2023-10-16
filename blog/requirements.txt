@@ -1,0 +1,6 @@
+langchain
+jupyter
+boto3
+Pillow
+matplotlib
+python-dotenv
